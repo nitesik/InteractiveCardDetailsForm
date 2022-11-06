@@ -324,7 +324,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     margin: 0 25px;
-    margin-top: 30px;
+    margin-top: 100px;
   }
   
   label {
@@ -377,7 +377,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 100px;
   }
   
   .inner-completed {
