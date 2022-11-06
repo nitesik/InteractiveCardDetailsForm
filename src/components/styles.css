@@ -216,7 +216,7 @@ input::placeholder {
   .container {
     display: grid;
     position: absolute;
-    height: calc(100vh-150px);
+    height: 100vh;
     width: 100vw;
     grid-template: 1fr 2fr/ 1fr;
   }
@@ -246,8 +246,8 @@ input::placeholder {
     background-color: white;
     border-radius: 5px;
     position: absolute;
-    top: 125px;
-    left: 20px;
+    margin-top: 125px;
+    margin-left: 20px;
     z-index: 1;
     
   }
@@ -259,8 +259,8 @@ input::placeholder {
     background-color: white;
     border-radius: 5px;
     position: absolute;
-    top: 30px;
-    left: 75px;
+    margin-top: 30px;
+    margin-left: 75px;
     z-index: 0;
   }
 
