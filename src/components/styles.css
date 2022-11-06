@@ -24,6 +24,7 @@ input::placeholder {
     grid-template: 1fr / 1fr 1fr;
   }
   
+  
   .images {
     display: flex;
     background-image: url("./images/bg-main-desktop.png");
@@ -37,7 +38,7 @@ input::placeholder {
   }
   
   .card {
-    margin-left: 100px;
+    margin-left: 0px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -72,7 +73,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     width: 350px;
-    margin-left: 100px;
+    margin-left: 70px;
   }
   
   label {
@@ -184,7 +185,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 30px;
   }
   
   .inner-completed {
@@ -214,7 +215,8 @@ input::placeholder {
 @media (max-width: 737px) {
   .container {
     display: grid;
-    height: 100vh;
+    position: absolute;
+    height: calc(100vh-150px);
     width: 100vw;
     grid-template: 1fr 2fr/ 1fr;
   }
@@ -224,6 +226,8 @@ input::placeholder {
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -60px;
+    position: relative;
+    
   }
 
   .card {
@@ -231,6 +235,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     color: white;
+    position: relative;
   }
 
   .front-card {
@@ -244,6 +249,7 @@ input::placeholder {
     top: 125px;
     left: 20px;
     z-index: 1;
+    
   }
   .back-card {
     background-image: url("./images/bg-card-back.png");

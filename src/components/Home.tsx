@@ -17,8 +17,6 @@ function Home() {
     for (let i = 0; i < number.length; i++) {
       if (i % 4 == 0) {
         newNumber += " ";
-        console.log(i);
-        
       }
         
       newNumber += number[i];
