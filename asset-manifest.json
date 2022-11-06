@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InteractiveCardDetailsForm/static/css/main.83d64b32.css",
-    "main.js": "/InteractiveCardDetailsForm/static/js/main.dc58a5ff.js",
+    "main.css": "/InteractiveCardDetailsForm/static/css/main.b017634c.css",
+    "main.js": "/InteractiveCardDetailsForm/static/js/main.07becef3.js",
     "static/js/787.5c7fa920.chunk.js": "/InteractiveCardDetailsForm/static/js/787.5c7fa920.chunk.js",
     "static/media/SpaceGrotesk-Regular.ttf": "/InteractiveCardDetailsForm/static/media/SpaceGrotesk-Regular.67fa42510e26f5d4733d.ttf",
     "static/media/bg-main-desktop.png": "/InteractiveCardDetailsForm/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
@@ -10,12 +10,12 @@
     "static/media/bg-main-mobile.png": "/InteractiveCardDetailsForm/static/media/bg-main-mobile.caa4689407777a312ede.png",
     "index.html": "/InteractiveCardDetailsForm/index.html",
     "static/media/icon-complete.svg": "/InteractiveCardDetailsForm/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
-    "main.83d64b32.css.map": "/InteractiveCardDetailsForm/static/css/main.83d64b32.css.map",
-    "main.dc58a5ff.js.map": "/InteractiveCardDetailsForm/static/js/main.dc58a5ff.js.map",
+    "main.b017634c.css.map": "/InteractiveCardDetailsForm/static/css/main.b017634c.css.map",
+    "main.07becef3.js.map": "/InteractiveCardDetailsForm/static/js/main.07becef3.js.map",
     "787.5c7fa920.chunk.js.map": "/InteractiveCardDetailsForm/static/js/787.5c7fa920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83d64b32.css",
-    "static/js/main.dc58a5ff.js"
+    "static/css/main.b017634c.css",
+    "static/js/main.07becef3.js"
   ]
 }
